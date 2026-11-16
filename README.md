@@ -4,9 +4,13 @@
 
 ## 1. Установка SSH-клиента и генерация ключевой пары
 - Проверка клиента SSH: “ssh -V” → OpenSSH_10.2p1.
-<img width="245" height="64" alt="{155183CB-9B81-4636-A6C7-0ED218E77532}" src="https://github.com/user-attachments/assets/f96a46ca-2ac9-421a-983e-8869e1fff2c7" /><img width="160" height="32" alt="{1F0BD23F-A98D-44DA-BF3F-0D042C11F8E3}" src="https://github.com/user-attachments/assets/adcaf89f-5058-4bf5-a811-42156bc37e16" />
+
+<img width="245" height="64" alt="1" src="https://github.com/user-attachments/assets/61d0cace-36ce-4bca-8963-47ad77d2dd0d" />
+
 - Проверка наличия и версии git: “git --version” → git version 2.53.0.
-![Uploading {1F0BD23F-A98D-44DA-BF3F-0D042C11F8E3}.png…]()
+
+<img width="160" height="32" alt="2" src="https://github.com/user-attachments/assets/c821be54-3d2f-4a40-88cc-e5aeeda3ba51" />
+
 - Сгенерирована пара ключей ed25519 с паролем:
   ‘ssh-keygen -t ed25519 -C “romankvasnoy@gmail.com”’
 
